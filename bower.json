@@ -1,0 +1,26 @@
+{
+  "name": "dabavala",
+  "description": "DabaVala kitchen application",
+  "main": "server.js",
+  "authors": [
+    "Mohan Pratap Singh Rathour"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "DabaVala",
+    "Kitchen"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-css": "^3.3.7",
+    "font-awesome-sass": "^4.7.0",
+    "glyphicons": "^0.0.2"
+  }
+}
